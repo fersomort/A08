@@ -111,6 +111,7 @@ section{
         padding-bottom: .5em;
     }
 }
+
 aside {
     flex-basis: 25%;
     border-top: 2px solid var(--accent-color);
